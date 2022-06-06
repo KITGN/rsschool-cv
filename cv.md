@@ -19,8 +19,7 @@ It's significantly important to me in the field of gaining experience.
 
 ### Skills
 
--   HTML
--   CSS
+-   HTML/CSS
 -   JavaScript
 -   Python
 -   Git
