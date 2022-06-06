@@ -1,5 +1,5 @@
 
-## Nikita Goydenko
+### Nikita Goydenko
 
 ### Junior Front-End Developer
 
